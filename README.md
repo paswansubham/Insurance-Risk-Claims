@@ -66,4 +66,4 @@ These DAX measures ensure accurate aggregation, improve performance, and allow f
 - Overall, the dashboard enables **faster decision-making**, improves **risk assessment accuracy**, and supports **data-driven policy optimization** through a centralized, interactive reporting solution.
 
 ## 🖼 Screenshots / Demo
-!(https://github.com/riteshkumar-da/Insurance-Risk-Claims-Analytics/blob/main/Insurance_dashboard.png.png)
+!(https://github.com/paswansubham/Insurance-Risk-Claims/blob/main/Insurance_dashboard.png.png)
